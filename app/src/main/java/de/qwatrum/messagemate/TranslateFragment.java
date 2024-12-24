@@ -60,7 +60,7 @@ public class TranslateFragment extends Fragment {
                     imm.hideSoftInputFromWindow(view.getWindowToken(), 0);
 
                     try {
-                        resultText = translator.translate(Objects.requireNonNull(message.getText()).toString().trim(), Objects.requireNonNull(message.getText()).toString().trim());
+                        resultText = translator.translate(Objects.requireNonNull(message.getText()).toString().trim(), Objects.requireNonNull(language.getText()).toString().trim());
                     } catch (JSONException | IOException e) {
                         throw new RuntimeException(e);
                     }

@@ -8,7 +8,7 @@
     <string name="title">MessageMate</string>
     <string name="info">I</string>
     <string name="information_title">Information:</string>
-    <string name="information_text">MessageMate is open source at GitHub (@Qwatrum)\n\nCredits:\nCode: Qwatrum\nDesign: Qwatrum\n\n\nGPT-3.5 is used for translation and modifying.\n\n\nIf you want to support my work watch an ad: soon</string>
+    <string name="information_text">MessageMate is open source at GitHub (@Qwatrum)\n\nCredits:\nCode: Qwatrum\nDesign: Qwatrum\nIcons: Android Studio (Apache License Version 2.0)\n\nGPT-4o-mini is used for translation and modifying.\n</string>
     <string name="special_characters_title">Special Characters:</string>
     <string name="copy">Copy</string>
     <string name="spice_up_title">Spice up:</string>

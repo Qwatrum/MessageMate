@@ -55,7 +55,7 @@ public class Spice_upFragment extends Fragment {
                     imm.hideSoftInputFromWindow(view.getWindowToken(), 0);
 
                     try {
-                        resultText = modifier.modify(Objects.requireNonNull(message.getText()).toString().trim(), Objects.requireNonNull(message.getText()).toString().trim());
+                        resultText = modifier.modify(Objects.requireNonNull(message.getText()).toString().trim(), Objects.requireNonNull(modfiying.getText()).toString().trim());
                     } catch (JSONException | IOException e) {
                         throw new RuntimeException(e);
                     }
