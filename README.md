@@ -47,8 +47,7 @@
   
 
 ## How to use:
-* Get the app here
-* Or clone the repo and compile it on your own. You need your own OpenAI API-Key.
+* Clone the repo and compile it on your own. You need your own OpenAI API-Key.
 
 ## Credits:
 * Code: Qwatrum
