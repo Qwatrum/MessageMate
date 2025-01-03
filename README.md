@@ -6,7 +6,7 @@
 ---
 
 ## Demo video:
-  ![vid](https://cloud-4rrob8juo-hack-club-bot.vercel.app/0messagemate_showcase.mp4)
+  [Here](https://cloud-4rrob8juo-hack-club-bot.vercel.app/0messagemate_showcase.mp4)
 
 ## Features:
 * Information page
