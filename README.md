@@ -6,7 +6,7 @@
 ---
 
 ## Demo video:
-* pass (**TODO**)
+  ![vid](https://cloud-4rrob8juo-hack-club-bot.vercel.app/0messagemate_showcase.mp4)
 
 ## Features:
 * Information page
@@ -17,7 +17,7 @@
   * Press 'Translate'
   * You can copy the result
   
-  ![translate](img/02.png)
+  ![translate](https://cloud-9gaykm5k3-hack-club-bot.vercel.app/002.png)
 
 * ### Encryption:
   * Choose between Caeser and AES
@@ -27,8 +27,8 @@
   * Click the button
   * You can copy the result
   
-  ![encryption1](img/03.png)
-  ![encryption2](img/04.png)
+  ![encryption1](https://cloud-4f3hgojle-hack-club-bot.vercel.app/003.png)
+  ![encryption2](https://cloud-mrarn89f2-hack-club-bot.vercel.app/004.png)
 
 * ### Spice up:
   * Enter the message you want to modify
@@ -36,14 +36,14 @@
   * Press the button
   * Copy the result if you want
   
-  ![spiceup](img/05.png)
+  ![spiceup](https://cloud-iopivg4sz-hack-club-bot.vercel.app/005.png)
 
 * ### Special Characters:
   * A list of many useful and special characters
   * For example the empty character or chess pieces, arrows, lines, ...
   * Easy to copy and paste into your chat
   
-  ![specialc](img/06.png)
+  ![specialc](https://cloud-8hhceaz4i-hack-club-bot.vercel.app/006.png)
   
 
 ## How to use:
